@@ -1,5 +1,5 @@
 ```ts
-import Desenvolvedor from 'Math-Martins';
+import Dev from 'Math-Martins';
 
 class AboutMe extends implements {
   name = 'Matheus Martins';
