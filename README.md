@@ -1,7 +1,7 @@
 ```ts
 import Dev from 'Math-Martins';
 
-class AboutMe extends implements {
+class AboutMe extends Dev {
   name = 'Matheus Martins';
   area = 'Dev Pleno';
 }
